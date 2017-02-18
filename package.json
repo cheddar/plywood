@@ -1,6 +1,6 @@
 {
   "name": "swiv-plywood",
-  "version": "0.12.13",
+  "version": "0.12.14",
   "description": "a query planner and executor",
   "keywords": [
     "split",
